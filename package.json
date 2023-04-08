@@ -1,0 +1,16 @@
+{
+  "name": "the-super-tiny-compiler-in-rescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "res:build": "rescript",
+    "res:dev": "rescript build -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rescript": "^10.1.4"
+  }
+}
